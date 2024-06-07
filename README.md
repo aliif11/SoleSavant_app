@@ -1,1 +1,1 @@
-# SoleSavant_app
+# sole-savant
